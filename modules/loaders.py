@@ -81,7 +81,7 @@ loaders_and_params = OrderedDict({
         'trust_remote_code',
         'no_use_fast',
     ],
-        'petals': [
+    'petals': [
         'trust_remote_code',
         'gpu_split',
     ],
