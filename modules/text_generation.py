@@ -11,7 +11,6 @@ import numpy as np
 import torch
 import transformers
 from transformers import LogitsProcessorList, is_torch_xpu_available
-
 import modules.shared as shared
 from modules.cache_utils import process_llamacpp_cache
 from modules.callbacks import (
